@@ -48,7 +48,7 @@ class App extends React.Component {
     return (
       <div className="container py-5">
           <div className='shadow p-4 mb-4'>
-            <h1 className="pt-2 pb-4">Wallet with Unstoppable</h1> 
+            <h1 className="pt-2 pb-4">Check Wallet Balance using Unstoppable</h1> 
             <form onSubmit={this.process}>
               <div className="mb-3">
                 <input type="text" id="input-search" className="form-control form-control-lg" placeholder="Enter the unstoppable domain" autoComplete="off" required/>
