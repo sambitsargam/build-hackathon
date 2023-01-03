@@ -1,5 +1,5 @@
-const API_URL = 'https://resolve.unstoppabledomains.com/domains/';
-const API_KEY = '172813c9-26b5-473e-b1c2-a788ce5c0c8e';
+const API_URL = 'api url here';
+const API_KEY = 'YOUR_API_KEY';
 
 function getDomainInfo(domain) {
 

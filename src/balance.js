@@ -1,4 +1,4 @@
-const API_KEY = 'ckey_b06eda02004e4778b61c536477c';
+const API_KEY = 'api-key-here';
 const API_URL = 'https://api.covalenthq.com/v1';
 
 function getAllChains() {
